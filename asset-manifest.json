@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/SocialNet/static/css/main.5e533d3a.chunk.css",
-    "main.js": "/SocialNet/static/js/main.c05ea3d3.chunk.js",
-    "main.js.map": "/SocialNet/static/js/main.c05ea3d3.chunk.js.map",
+    "main.js": "/SocialNet/static/js/main.359e89eb.chunk.js",
+    "main.js.map": "/SocialNet/static/js/main.359e89eb.chunk.js.map",
     "runtime-main.js": "/SocialNet/static/js/runtime-main.7bf41bd9.js",
     "runtime-main.js.map": "/SocialNet/static/js/runtime-main.7bf41bd9.js.map",
-    "static/js/2.66718bc5.chunk.js": "/SocialNet/static/js/2.66718bc5.chunk.js",
-    "static/js/2.66718bc5.chunk.js.map": "/SocialNet/static/js/2.66718bc5.chunk.js.map",
+    "static/js/2.27ecc351.chunk.js": "/SocialNet/static/js/2.27ecc351.chunk.js",
+    "static/js/2.27ecc351.chunk.js.map": "/SocialNet/static/js/2.27ecc351.chunk.js.map",
     "index.html": "/SocialNet/index.html",
-    "precache-manifest.13a0f8bffd516662c83adac1dba796ae.js": "/SocialNet/precache-manifest.13a0f8bffd516662c83adac1dba796ae.js",
+    "precache-manifest.913ff32302fbe5da63e3044c1a9aac90.js": "/SocialNet/precache-manifest.913ff32302fbe5da63e3044c1a9aac90.js",
     "service-worker.js": "/SocialNet/service-worker.js",
     "static/css/main.5e533d3a.chunk.css.map": "/SocialNet/static/css/main.5e533d3a.chunk.css.map",
-    "static/js/2.66718bc5.chunk.js.LICENSE.txt": "/SocialNet/static/js/2.66718bc5.chunk.js.LICENSE.txt",
+    "static/js/2.27ecc351.chunk.js.LICENSE.txt": "/SocialNet/static/js/2.27ecc351.chunk.js.LICENSE.txt",
     "static/media/91.svg": "/SocialNet/static/media/91.3aedb725.svg",
     "static/media/User-Icon.png": "/SocialNet/static/media/User-Icon.cefea5a4.png",
     "static/media/chill.webp": "/SocialNet/static/media/chill.3a05d0ee.webp",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7bf41bd9.js",
-    "static/js/2.66718bc5.chunk.js",
+    "static/js/2.27ecc351.chunk.js",
     "static/css/main.5e533d3a.chunk.css",
-    "static/js/main.c05ea3d3.chunk.js"
+    "static/js/main.359e89eb.chunk.js"
   ]
 }
