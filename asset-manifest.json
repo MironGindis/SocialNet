@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/MironGindis/SocialNet/static/css/main.5e533d3a.chunk.css",
-    "main.js": "/MironGindis/SocialNet/static/js/main.ef47ac0c.chunk.js",
-    "main.js.map": "/MironGindis/SocialNet/static/js/main.ef47ac0c.chunk.js.map",
-    "runtime-main.js": "/MironGindis/SocialNet/static/js/runtime-main.867bdc66.js",
-    "runtime-main.js.map": "/MironGindis/SocialNet/static/js/runtime-main.867bdc66.js.map",
-    "static/js/2.66718bc5.chunk.js": "/MironGindis/SocialNet/static/js/2.66718bc5.chunk.js",
-    "static/js/2.66718bc5.chunk.js.map": "/MironGindis/SocialNet/static/js/2.66718bc5.chunk.js.map",
-    "index.html": "/MironGindis/SocialNet/index.html",
-    "precache-manifest.8c6426fc6f74578aa99aefca7b0e22bf.js": "/MironGindis/SocialNet/precache-manifest.8c6426fc6f74578aa99aefca7b0e22bf.js",
-    "service-worker.js": "/MironGindis/SocialNet/service-worker.js",
-    "static/css/main.5e533d3a.chunk.css.map": "/MironGindis/SocialNet/static/css/main.5e533d3a.chunk.css.map",
-    "static/js/2.66718bc5.chunk.js.LICENSE.txt": "/MironGindis/SocialNet/static/js/2.66718bc5.chunk.js.LICENSE.txt",
-    "static/media/91.svg": "/MironGindis/SocialNet/static/media/91.3aedb725.svg",
-    "static/media/User-Icon.png": "/MironGindis/SocialNet/static/media/User-Icon.cefea5a4.png",
-    "static/media/chill.webp": "/MironGindis/SocialNet/static/media/chill.3a05d0ee.webp",
-    "static/media/trruejob.webp": "/MironGindis/SocialNet/static/media/trruejob.98c22497.webp"
+    "main.css": "/SocialNet/static/css/main.5e533d3a.chunk.css",
+    "main.js": "/SocialNet/static/js/main.c05ea3d3.chunk.js",
+    "main.js.map": "/SocialNet/static/js/main.c05ea3d3.chunk.js.map",
+    "runtime-main.js": "/SocialNet/static/js/runtime-main.7bf41bd9.js",
+    "runtime-main.js.map": "/SocialNet/static/js/runtime-main.7bf41bd9.js.map",
+    "static/js/2.66718bc5.chunk.js": "/SocialNet/static/js/2.66718bc5.chunk.js",
+    "static/js/2.66718bc5.chunk.js.map": "/SocialNet/static/js/2.66718bc5.chunk.js.map",
+    "index.html": "/SocialNet/index.html",
+    "precache-manifest.13a0f8bffd516662c83adac1dba796ae.js": "/SocialNet/precache-manifest.13a0f8bffd516662c83adac1dba796ae.js",
+    "service-worker.js": "/SocialNet/service-worker.js",
+    "static/css/main.5e533d3a.chunk.css.map": "/SocialNet/static/css/main.5e533d3a.chunk.css.map",
+    "static/js/2.66718bc5.chunk.js.LICENSE.txt": "/SocialNet/static/js/2.66718bc5.chunk.js.LICENSE.txt",
+    "static/media/91.svg": "/SocialNet/static/media/91.3aedb725.svg",
+    "static/media/User-Icon.png": "/SocialNet/static/media/User-Icon.cefea5a4.png",
+    "static/media/chill.webp": "/SocialNet/static/media/chill.3a05d0ee.webp",
+    "static/media/trruejob.webp": "/SocialNet/static/media/trruejob.98c22497.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.867bdc66.js",
+    "static/js/runtime-main.7bf41bd9.js",
     "static/js/2.66718bc5.chunk.js",
     "static/css/main.5e533d3a.chunk.css",
-    "static/js/main.ef47ac0c.chunk.js"
+    "static/js/main.c05ea3d3.chunk.js"
   ]
 }
