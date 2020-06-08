@@ -1,0 +1,23 @@
+.MyPosts__Post{
+    color: #fff;
+    position: relative;
+}
+.MyPosts__Post img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.Post__Like{
+    padding: 0 0 0 30px;
+}
+.Post__Like::before{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    content: '';
+    background-image: url(https://www.freepngimg.com/thumb/facebook/65476-like-icons-media-button-up-sign-computer.png);
+    background-size: 100%;
+    width: 20px;
+    height: 20px;
+}

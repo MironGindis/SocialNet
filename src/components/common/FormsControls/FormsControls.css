@@ -1,0 +1,27 @@
+.error textarea,
+.error input{
+    border: 2px solid red;
+}
+.formsControls textarea{
+    min-height: 50px;
+    width: 256px;
+    resize: none;
+}
+.error span {
+    color: red;
+    font-weight: 600;
+    display: block;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.formsControls{
+    display: flex;
+}
+.formSummaryError{
+    border: 2px solid red;
+    color: red;
+    display: inline-block;
+    padding: 2px 5px;
+}

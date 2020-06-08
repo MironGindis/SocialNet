@@ -1,0 +1,19 @@
+.nav{
+    padding: 10px;
+    grid-area: n;
+    background-color: #008000	;
+  }
+.nav__link a:visited{
+    color: white;
+}
+.nav__link a{
+    color: white;
+    text-decoration: none;
+}
+.nav__link a.active{
+    color: red;
+}
+.nav__link {
+    padding-left: 20px;
+    margin: 10px 0;
+}

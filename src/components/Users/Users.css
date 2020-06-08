@@ -1,0 +1,54 @@
+.Users__body {
+    padding: 10px;
+}
+.User__avatar{
+    width: 100px;
+    height: 100px;
+}
+.Avatar__img {
+    width: 100%;
+    height: 100%;
+}
+.User__body {
+    margin: 3px;
+    display: flex;
+}
+.User__followblock{
+    flex-basis:17%;
+    padding: 10px;
+}
+.User__info{
+    position: relative;
+    padding: 10px;
+    flex-basis:50%;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px ;
+}
+.User__name{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+.User__status{
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+}
+.User__location{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+
+}
+.User__location p{
+    padding-top: 0;
+    margin-top: 0;
+}
+.User__followblock button{
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+}
+

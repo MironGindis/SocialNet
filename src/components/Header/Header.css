@@ -1,0 +1,22 @@
+.header {
+    grid-area: h;
+    background-color: #228B22;
+    position: relative;
+}
+
+.header img {
+    height: 100%;
+}
+
+.LoginBlock {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+}
+
+.LoginBlock a {
+    color: #b2dcff;
+    text-decoration: none;
+    font-weight: 500;
+}
+

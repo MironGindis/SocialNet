@@ -1,0 +1,35 @@
+.Dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+.Dialogs__page{
+    padding: 10px;
+}
+.Dialogs__item a{
+    color: #000000;
+    text-decoration: none;
+}
+.Dialogs__item a:visited{
+    color: #000000;
+}
+.Dialogs__item a.active{
+    background-color: blue;
+    color: white;
+    border: 1px solid #ffffff;
+}
+.Dialogs__messages{
+    padding: 10px;
+    position: relative;
+}
+.Dialog__message{
+
+}
+.Dialogs__messages:before{
+    content: '';
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1px;
+    height: 100%;
+}

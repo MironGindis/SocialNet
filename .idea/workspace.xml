@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8cd35ea-5f83-41b0-bee4-c7cc0e1e0c8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/91.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/User-Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/chill.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/trruejob.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/user-pro-avatar-login-account-svg-png-icon-free-64755-2-300x300.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/user-s-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogsContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogsItem/DialogsItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogsItem/DialogsItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Message/Message.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Message/Message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Login/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Music/Music.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Music/Music.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/News/News.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/News/News.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPostsContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus/ProfileStatus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus/ProfileStatusWithHooks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Settings/Settings.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Settings/Settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Users/Users.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Users/Users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Users/UsersContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/FormsControls/FormsControls.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/FormsControls/FormsControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Paginator/Paginator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Paginator/Paginator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Preloader/Preloader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hoc/withAuthRedirect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/app-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/auth-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/dialogs-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/profile-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/redux-store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/users-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/users-selectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/validators/validators.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aZWFshvF2m15ZUPIyk3Z2bmP9q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="E:\Program Files\JetBrains\WebStorm 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\miron\react\projects\01-first-project\my-app\src\components\common\Paginator" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\miron\react\projects\01-first-project\my-app\src\components\Profile\ProfileInfo\ProfileStatus" />
+      <recent name="E:\miron\react\projects\01-first-project\my-app\src\redux" />
+      <recent name="E:\miron\react\projects\01-first-project\my-app\src\components\Header" />
+      <recent name="E:\miron\react\projects\01-first-project\my-app\src\components\Profile" />
+      <recent name="E:\miron\react\projects\01-first-project\my-app\src\components\Users" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8cd35ea-5f83-41b0-bee4-c7cc0e1e0c8d" name="Default Changelist" comment="" />
+      <created>1586943496685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586943496685</updated>
+      <workItem from="1586943519202" duration="3705000" />
+      <workItem from="1586963712853" duration="10735000" />
+      <workItem from="1587014809732" duration="13818000" />
+      <workItem from="1587046843680" duration="5907000" />
+      <workItem from="1587101093082" duration="10706000" />
+      <workItem from="1587127816972" duration="9895000" />
+      <workItem from="1587192201496" duration="10717000" />
+      <workItem from="1587278358078" duration="10364000" />
+      <workItem from="1587361852725" duration="23187000" />
+      <workItem from="1587461830170" duration="23905000" />
+      <workItem from="1587537134332" duration="23745000" />
+      <workItem from="1587572004959" duration="5650000" />
+      <workItem from="1587621086330" duration="22802000" />
+      <workItem from="1587711920235" duration="16249000" />
+      <workItem from="1587794336974" duration="9036000" />
+      <workItem from="1587881406033" duration="9770000" />
+      <workItem from="1587910173211" duration="22928000" />
+      <workItem from="1587980470365" duration="7040000" />
+      <workItem from="1588001323899" duration="6444000" />
+      <workItem from="1588052813576" duration="7521000" />
+      <workItem from="1588137698265" duration="9214000" />
+      <workItem from="1588228251151" duration="7863000" />
+      <workItem from="1588257822806" duration="1228000" />
+      <workItem from="1588326904409" duration="10415000" />
+      <workItem from="1588408404800" duration="5677000" />
+      <workItem from="1588480885782" duration="623000" />
+      <workItem from="1588491362994" duration="99000" />
+      <workItem from="1588491484022" duration="164000" />
+      <workItem from="1588492692569" duration="1358000" />
+      <workItem from="1588759774084" duration="955000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586960402228">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586960402228" />
+    <state x="837" y="443" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587915204875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="837" y="443" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587915204875" />
+    <state x="739" y="262" key="FileChooserDialogImpl" timestamp="1588760982769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588760982769" />
+    <state width="1899" height="299" key="GridCell.Tab.0.bottom" timestamp="1588345898778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="299" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588345898778" />
+    <state width="1899" height="299" key="GridCell.Tab.0.center" timestamp="1588345898777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="299" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588345898777" />
+    <state width="1899" height="299" key="GridCell.Tab.0.left" timestamp="1588345898777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="299" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588345898777" />
+    <state width="1899" height="299" key="GridCell.Tab.0.right" timestamp="1588345898777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="299" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588345898777" />
+    <state x="871" y="176" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587281229834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="871" y="176" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587281229834" />
+    <state x="779" y="285" key="run.anything.popup" timestamp="1588238848650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="285" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588238848650" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587713518111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587713518111" />
+  </component>
+</project>
